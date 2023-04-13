@@ -3,7 +3,7 @@
 Weaponinizing_Socializing-Paper
 
 A collaborative research report written by Cole Cagle, Andrew Hamilton, and James Wiseman for CPSC 4270: Databases and Security at the University of Tennessee-Chattanooga.
-The topic covers social engineering, but specifically focuses on the dark triad traits: narcissism, machievellianism, and psychopathy. These traits were identified by
+The topic covers social engineering, but specifically focuses on the dark triad traits: narcissism, Machiavellianism, and psychopathy. These traits were identified by
 researchers and are identifiable during screening processes. Screenings and education are the best methods at identifying these traits and preventing social engineering
 attacks.
 
